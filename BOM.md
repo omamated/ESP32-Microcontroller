@@ -15,7 +15,7 @@
 | [PCB](https://jlcpcb.com/) | Microcontroller itself | 1 | $20.00 | $20.00 | [JLCPCB](https://jlcpcb.com/) |
 | [All other Parts](https://Jlcpcb.com) | $42 | 1 | $42.00 | $42.00 | [jlcpcb](https://Jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$62.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$62.00** | — |
+| **Tax & shipping** | — | — | — | **$3.00** | — |
+| **Total** | — | — | — | **$65.00** | — |
 
-$3.00 left of the tier's funding.
+$0.00 left of the tier's funding.
